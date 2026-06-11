@@ -1,4 +1,8 @@
-the port scanner
+port scanner
+
+port-scanner.py : for scanning only one port
+port-scanner1.py : for scanning port from 1 to 100 and with the input host
+
 
 namp= the direct command for thie whole cli tool
 this tool is build for a better realization of the following concepts:
